@@ -10,7 +10,7 @@ def argue(an_argue)
   an_argue
 end
 
-def greeting
+def greeting(greeting, name)
 
 end
 
